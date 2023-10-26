@@ -79,7 +79,7 @@ body {
   
   body.dark-mode {
     color: #000000; /* Text color in dark mode */
-    background-color: #22ff05; /* Background color in dark mode */
+    background-color: #ffffff; /* Background color in dark mode */
   }
   header{
     background-color: #474747;
