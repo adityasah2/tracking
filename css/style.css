@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+html,body{
+    box-sizing: border-box;
+}
+.HEAD{
+    text-decoration: none;
+    margin: 0px 20px 0px 0px;
+}
+#HEAD1{
+font-weight: 800;
+}
+ #HEAD3,#HEAD4,#HEAD2,#HEAD5,.fa-circle-half-stroke{
+    float: right;
+} 
+#HEAD5{
+    color: red;
+}
+
+
+.ppp{
+    padding: 48px;
+  position: relative;
+  top: 70px;
+    background-position: center;
+   
+    font-size: 64px;
+    font-family: "Raleway", sans-serif;
+    color: white;
+   font-stretch: narrower;
+   
+}
+footer{
+    height: 16em;
+    background-color: rgb(0, 0, 0);
+    color: #ffff;
+}
+#sec1{
+    background-image: url(/not\ found/myself/images/untitled.png); 
+    min-height: 100vh;
+}
+#ABOUT{
+
+    /* height: 500px; */
+    text-align: center;
+    font-size: 30px;
+    min-height: 100vh;
+}
+#TEAM{
+    height: 500px;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(255, 11, 11);
+    background-color:#0ddbdb;
+}
+#CONTACT{
+    height: 500px;
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    /* height: 40px;
+    width: 50px; */
+    cursor: pointer;
+    border-radius: 50%;
+    
+}
+.fa-circle-half-stroke{
+    font-size: 25px;
+    margin: 0px 20px 0px 0px;
+}
+body {
+   background-color: #474747;
+   color: #04ffea; 
+  }
+  
+  body.dark-mode {
+    color: #000000; /* Text color in dark mode */
+    background-color: #22ff05; /* Background color in dark mode */
+  }
+  header{
+    background-color: #474747;
+    color: #ffffff;
+    padding: 20px;
+}
+header.dark-mode{
+    color: #58e6ff; /* Text color in dark mode */
+    background-color: #ffffff; /* Background color in dark mode */
+}
