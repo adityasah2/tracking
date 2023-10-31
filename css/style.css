@@ -17,11 +17,6 @@ font-weight: 800;
  #HEAD3,#HEAD4,#HEAD2,#HEAD5,.fa-circle-half-stroke{
     float: right;
 } 
-
-#HEAD3,#HEAD4,#HEAD2{
-    color:black;
-}
-
 #HEAD5{
     color: red;
 }
