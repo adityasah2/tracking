@@ -54,12 +54,12 @@ footer{
     font-size: 30px;
     color:rgb(255, 11, 11);
     background-color:#0ddbdb;
-    min-height: 100vh;
+    height: 500px;
 }
 #CONTACT{
     text-align: center;
     font-size: 30px;
-    min-height: 100vh;
+    height: 500px;;
 }
 button{
     /* height: 40px;
