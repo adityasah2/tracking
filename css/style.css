@@ -50,14 +50,14 @@ footer{
     min-height: 100vh;
 }
 #TEAM{
-    height: 500px;
+    min-height: 100vh;
     text-align: center;
     font-size: 30px;
     color:rgb(255, 11, 11);
     background-color:#0ddbdb;
 }
 #CONTACT{
-    height: 500px;
+    min-height: 100vh;
     text-align: center;
     font-size: 30px;
 }
