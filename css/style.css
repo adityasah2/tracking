@@ -9,6 +9,7 @@ html,body{
 .HEAD{
     text-decoration: none;
     margin: 0px 20px 0px 0px;
+    
 }
 #HEAD1{
 font-weight: 800;
@@ -16,6 +17,11 @@ font-weight: 800;
  #HEAD3,#HEAD4,#HEAD2,#HEAD5,.fa-circle-half-stroke{
     float: right;
 } 
+
+#HEAD3,#HEAD4,#HEAD2{
+    color:black;
+}
+
 #HEAD5{
     color: red;
 }
